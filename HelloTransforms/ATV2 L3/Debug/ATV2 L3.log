@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Jonathan  M.B\Desktop\PG2021-lista 3\HelloTransforms\ATV2 L3\Origem.cpp(39,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  ATV2 L3.vcxproj -> C:\Users\Jonathan  M.B\Desktop\PG2021-lista 3\HelloTransforms\Debug\ATV2 L3.exe
